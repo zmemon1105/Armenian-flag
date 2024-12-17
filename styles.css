@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
+}
+.main-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.red{
+    background:#D90012;
+}
+
+.blue{
+    background:#001489;
+}
+
+.gold{
+    background:#FF9E1B;
+}
+
+span{
+    height: 90px;
+    width: 440px;
+}
